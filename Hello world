@@ -1,4 +1,23 @@
 Hello World
-
 code:
 print('Hello World')
+
+Hello World with tab
+print('Hello World\tHello World')
+
+#Hello World with new line
+print('Hello World\n\nHello World')
+
+#Integer Input
+num=int(input())
+print(num)
+
+Float Input
+num=float(input())
+print('%.2f'%num)
+
+#Character Input
+a=input()
+print(a)
+
+#String Input
